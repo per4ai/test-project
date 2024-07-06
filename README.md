@@ -13,9 +13,6 @@ __**Team: Pilgrimsled**__
 
 ***
 ***
-**Table of context**
-[toc]
-***
 ## Introduction
 
 Projekt Pilgrimsvandring St Olav leden is an ongoing and dynamic project aimed at enhancing the experience of pilgrims traveling along the historic St Olav route. As we continue to evolve and adapt, this project integrates several innovative services to provide a comprehensive and enriching journey for all participants.
@@ -68,6 +65,7 @@ The project integrates AI to enhance various functionalities:
 - **Health and Wellness Monitoring**: Implement wearable technology to monitor the health and wellness of pilgrims, providing real-time feedback and support.
 
 ***
+
 ### Using the Command Line with .NET CLI:
 
 1. **Install the .NET 8 SDK:** Download and install the .NET 8 SDK from the official Microsoft website [download .NET SDK]. This provides the necessary tools for running .NET applications.
@@ -75,12 +73,6 @@ The project integrates AI to enhance various functionalities:
 3. **Restore dependencies:** Use the `dotnet restore` command to download any required libraries your project depends on.
 4. **Build the project:** Use the `dotnet build` command to compile your C# code into an executable file.
 5. **Run the application:**  You can use the `dotnet run` command followed by the project file name (e.g., `dotnet run Pilgrimsvandring.csproj`).
-***
-### Future Innovational Possibilities
-
-- **Predictive Maintenance**: Use AI to predict and prevent potential issues along the routes, ensuring a smoother journey.
-- **Augmented Reality (AR) Integration**: Enhance the pilgrim experience by overlaying historical and cultural information onto real-world views using AR.
-- **Health and Wellness Monitoring**: Implement wearable technology to monitor the health and wellness of pilgrims, providing real-time feedback and support.
 
 ***
 
@@ -89,6 +81,7 @@ The project integrates AI to enhance various functionalities:
 Projekt Pilgrimsvandring St Olav leden is a living project, continuously adapting to provide a rich, secure, and engaging experience for all pilgrims. With the integration of advanced services and AI, we aim to push the boundaries of what’s possible, offering innovative solutions to enhance the journey along the historic St Olav route.
 ***
 ***
+
 ## Use case senario for log in levels
 
 ![](src/access-diagram.svg)
@@ -97,9 +90,13 @@ Projekt Pilgrimsvandring St Olav leden is a living project, continuously adaptin
 **Console output log for different access token levels**
 
 User Coordinates - Latitude: 63,4305, Longitude: 11,3951
+
 User Coordinates - common-path-auth
+
 User Coordinates - Latitude: 63,1792, Longitude: 14,6357
+
 User Coordinates - wanderer-path-auth
+
 
 ***
 ***
@@ -247,7 +244,7 @@ WandererPaths
 ***
 
 
-**Additional Resources:**
+## Additional Resources:
 
 * Tutorial: Create a .NET console application using Visual Studio Code: [https://learn.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code](https://learn.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code)
 * Tutorial: Create a .NET console application using Visual Studio: [https://code.visualstudio.com/docs/csharp/get-started](https://code.visualstudio.com/docs/csharp/get-started)
