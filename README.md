@@ -104,8 +104,8 @@ User Coordinates - wanderer-path-auth
 ***
 ***
 ## Overview of models and endpoint details
-![](:/f31d9c78622a489590556a04e560ae7a)
-![](:/ce70253757ef495d84a4ef28cd9cc959)
+![](src/swagger1.png)
+![](src/swagger2.png)
 ***
 ---
 Example of entity content:
