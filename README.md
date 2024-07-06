@@ -1,9 +1,9 @@
 
 # Projekt: Pilgrimsvandring - St Olavsleden
 
-++Course++: IK032A - Innovativa Digitala Lösningar (Informatics MA, Innovation through Software), - Summer 2024, MIUN
+__Course__: IK032A - Innovativa Digitala Lösningar (Informatics MA, Innovation through Software), - Summer 2024, MIUN
 ***
-++**Team: Pilgrimsled**++
+__**Team: Pilgrimsled**__
 
 - Per Anebert
 - Fredrik Håkansson
@@ -13,7 +13,7 @@
 
 ***
 ***
-++**Table of context**++
+**Table of context**
 [toc]
 ***
 ## Introduction
@@ -94,7 +94,7 @@ Projekt Pilgrimsvandring St Olav leden is a living project, continuously adaptin
 ![](src/access-diagram.svg)
 
 
-++**Console output log for different access token levels**++
+**Console output log for different access token levels**
 
 User Coordinates - Latitude: 63,4305, Longitude: 11,3951
 User Coordinates - common-path-auth
@@ -108,7 +108,7 @@ User Coordinates - wanderer-path-auth
 ![](src/swagger2.png)
 ***
 ---
-Example of entity content:
+__Example of entity content:__
 
 Comment
 ```plantuml
